@@ -1,0 +1,13 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=53636:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester\out\production\Tester Main
+val = 0
+val = 1
+val = 2
+val = 3
+val = 4
+val = 5
+val = 6
+val = 7
+val = 8
+val = 9
+
+Process finished with exit code 0
